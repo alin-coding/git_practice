@@ -1,6 +1,4 @@
- function howAreYou () {
-    console.log('Hi')
- }
+console.log('big changes')
 
  function howAreYo () {
    console.log('Hi')
